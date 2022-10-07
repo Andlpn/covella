@@ -1,0 +1,152 @@
+.box1{
+    display: block;
+    background: rgba(255,255,255,0);
+    border-style: none;
+    border-radius: 0px;
+    left: 24px;
+    top: 3021px;
+    z-index: 21;
+    width: 1232px;
+    height: 385px;
+    position: absolute;
+    
+}
+.stone1{
+    width: 50%;
+    float: right;
+    height: 385px;
+    
+}
+.stone2{
+    width: 50%;
+    float: left;
+    height: 385px;
+   
+}
+.heading1{
+    position: absolute;
+    background: #f5f5f8;
+    width: 450px;
+    padding-left: 100px;
+    height: 385px;
+    
+}
+
+.div{
+    display: ;
+}
+.icon1{
+    width: 50px;
+    height: 55px;
+    vertical-align: top;
+    float: top-left;
+}
+
+.box2{
+    display: block;
+    background: rgba(255,255,255,0);
+    border-style: none;
+    border-radius: 0px;
+    left: 24px;
+    top: 3021px;
+    z-index: 21;
+    width: 1232px;
+    height: 385px;
+    position: absolute;
+}
+.local1{
+    width: 50%;
+    float: left;
+    height: 385px;
+    
+}
+.local2{
+    width: 50%;
+    float: right;
+    height: 385px;
+
+}
+
+.heading2{
+    font-family: 'Marcellus', serif;
+    color: #14233e;
+    margin: 100px;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0.26px;
+    line-height: 42px;
+}
+
+.box3{
+    display: block;
+    background: rgba(255,255,255,0);
+    border-style: none;
+    border-radius: 0px;
+    left: 24px;
+    top: 3021px;
+    z-index: 21;
+    width: 1232px;
+    height: 385px;
+    position: absolute;
+}
+.trans2{
+    width: 50%;
+    float: left;
+    height: 385px;
+    
+}
+.trans1{
+    width: 50%;
+    float: right;
+    height: 385px;
+
+}
+
+.heading3{
+    font-family: 'Marcellus', serif;
+    color: #14233e;
+    margin: 100px;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0.26px;
+    line-height: 42px;
+}
+p{
+    font-size: 15px;
+    letter-spacing: -0.01px;
+    line-height: 20px;
+    text-align: left;
+    font-family: 'Nunito Sans';
+     color: #14233e;
+}
+.box4{
+    display: block;
+    background: rgba(255,255,255,0);
+    border-style: none;
+    border-radius: 0px;
+    left: 24px;
+    top: 3021px;
+    z-index: 21;
+    width: 1232px;
+    height: 385px;
+    position: absolute;
+
+}
+.edu1{
+    width: 50%;
+    float: left;
+    height: 385px;
+    
+}
+.edu2{
+    width: 50%;
+    float: right;
+    height: 385px;
+
+}
+
+.heading4{
+   
+    margin: 100px;
+   
+}
